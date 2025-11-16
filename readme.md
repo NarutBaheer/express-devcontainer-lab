@@ -1,0 +1,1 @@
+JSON (JavaScript Object Notation) is a lightweight and readable format for storing and sharing data. It uses key–value pairs and looks similar to JavaScript objects, which makes it easy for both humans to understand and computers to process. Because it is simple and universal, JSON is widely used in APIs for sending data between servers and applications.
