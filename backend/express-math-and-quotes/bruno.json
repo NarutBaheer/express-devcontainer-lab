@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Express Math and Quotes",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
